@@ -6,5 +6,5 @@
     "audio": "instruction.mp3",
     "lettersPool": [ "a", "b", "c", "d" ],
     "totalFish": 20,
-    "targetCount": 5
+    "targetCount": 20
 }

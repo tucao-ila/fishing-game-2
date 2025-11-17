@@ -1,6 +1,6 @@
 {
-    "displayTitle": "Find the letter \"b\"",
-    "target": "b",
+    "displayTitle": "Find the letter \"a\"",
+    "target": "a",
     "durationSeconds": 30,
     "image": "instruction.png",
     "audio": "instruction.mp3",
@@ -8,4 +8,5 @@
     "totalFish": 10,
     "targetCount": 10
 }
+
 

@@ -5,8 +5,6 @@
     "image": "instruction.png",
     "audio": "instruction.mp3",
     "lettersPool": [ "a", "b", "c", "d" ],
-    "totalFish": 10,
+    "totalFish": 20,
     "targetCount": 10
 }
-
-
